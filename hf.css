@@ -48,5 +48,6 @@ display: table
   width: 300px;
 }
 .a1 {
-  text-decoration: none;
+  font-size: 23px;
+  color: black;
 }
