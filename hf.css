@@ -1,0 +1,52 @@
+.header {
+background-color: black;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 10px;
+}
+
+.logo-container h1 {
+  color: white;
+  font-size: 30px;
+  margin: 0;
+}
+
+.navigation {
+display: flex;
+valign-items: center;
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+.navigation a {
+color: white;
+display: flex;
+text-decoration: none;
+padding: 10px;
+}
+
+.navigation a:hover {
+background-color: gray;
+color: black;
+}
+
+.content {
+padding: 10px;
+font-size: 18px;
+display: table
+}
+
+.content img {
+  float: left;
+  margin-right: 10px;
+  width: 300px;
+}
+.content #p1 {
+  float: left;
+  width: 300px;
+}
+.a1 {
+  text-decoration: none;
+}
